@@ -1,4 +1,4 @@
-<h3>Project Euler #546 - The Floor's Revenge<\h3>
+<h3>Project Euler #546 - The Floor's Revenge</h3>
 
 Problem description: https://projecteuler.net/problem=546
 
